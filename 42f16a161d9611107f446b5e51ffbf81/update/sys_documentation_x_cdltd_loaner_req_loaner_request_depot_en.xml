@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="depot" label="depot" language="en" table="x_cdltd_loaner_req_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>depot</element>
+            <help/>
+            <hint/>
+            <label>depot</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <plural>depots</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-05 00:13:25</sys_created_on>
+            <sys_id>247722da1d9611107f446b5e51ffbf39</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>depot</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">42f16a161d9611107f446b5e51ffbf81</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">42f16a161d9611107f446b5e51ffbf81</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_loaner_req_loaner_request_depot_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-05 00:13:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
